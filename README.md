@@ -18,7 +18,7 @@ Breaking up [atlas-dataset](https://github.com/atlassubbed/atlas-dataset#readme)
 
 ## examples
 
-```
+```javascript
 const sum = require("atlas-sum")
 console.log(sum([1,2,3,4]))
 // 10
